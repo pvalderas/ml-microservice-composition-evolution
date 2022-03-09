@@ -4,8 +4,8 @@ This repositry contains the artifacts developed to integrate machine learning te
 
 You can find here the following:
 
-* Case studies: four case studies modelled in BPMN that have been used to manually test de application of the adaptation rules presented in [1]
-* Dataset: an Excel file with the dataset generated from the appplication of the adaptation rules to the case studies
+* CaseStudies: four case studies modelled in BPMN that have been used to manually test de application of the adaptation rules presented in [1]
+* dataset.xlsx: an Excel file with the dataset generated from the appplication of the adaptation rules to the case studies
 * R script: An script implemented in the R language in order to train different machine learning techniques from the previous dataset
 
 
