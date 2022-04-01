@@ -12,7 +12,7 @@ You can find here the following:
 
 # About
 
-This is the result of a research work performed by Jesus Ortiz Amay, Victoria Torres and Pedro Valderas at the PROS Research Center, Universitat Politècnica de València, Spain.
+This is the result of a research work performed by Jesus Ortiz Amaya, Victoria Torres and Pedro Valderas at the PROS Research Center, Universitat Politècnica de València, Spain.
 
 # Description
 
@@ -26,4 +26,4 @@ To face this challenge we have developed a solution based on machine learning te
 
 # References
 
-1. 
+1. J. Ortiz, V. Torres, P. Valderas. A Catalogue of Adaptation Rules to Support Local Changes in Microservice Compositions Implemented as Choreographies of BPMN Fragments. Research Report. http://hdl.handle.net/10251/181551 (http://hdl.handle.net/10251/181551) (accessed March 23, 2022).
