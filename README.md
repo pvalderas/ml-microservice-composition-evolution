@@ -29,7 +29,7 @@ To face this challenge we have developed a solution based on machine learning te
 1. J. Ortiz, V. Torres, P. Valderas. A Catalogue of Adaptation Rules to Support Local Changes in Microservice Compositions Implemented as Choreographies of BPMN Fragments. Research Report. http://hdl.handle.net/10251/181551 (accessed March 23, 2022).
 
 
-# Knowledgment
+# Acknowledgement
 
 Grant MCIN/AEI/10.13039/501100011033 funded by: 
 
